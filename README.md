@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w0wfisch
-- 👀 I’m interested in skateboarding, music, ai
-- 🌱 I’m currently learning diffusion models
+- 👀 I’m interested in skateboarding, music, art, product design, ai
+- 🌱 I’m currently learning C++ for Hardware development
 - 💞️ I’m looking to collaborate on anger management againts bugs
 - 📫 How to reach me is by listening to the faint scrams of me 
 
