@@ -17,7 +17,7 @@
 |------------------|--------------------------------------------|
 | Web              | Vue, JavaScript, HTML, CSS, PHP            |
 | Embedded         | C, C++, ESP-IDF, PlatformIO                |
-| Apple Ecosystem  | Swift, Xcode, SwiftUI, Cocoa               |
+| Apple Ecosystem  | Swift, Xcode, SwiftUI               |
 | Design           | Figma, Illustrator, Pen & Paper            |
 | Misc             | Shell scripts, Git, Markdown               |
 
