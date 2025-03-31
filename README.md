@@ -1,7 +1,8 @@
 # w0wfisch
 
-> I build stuff for the web, mess with hardware, and overengineer custom solutions to life's simplest problems.
-
+> A human(ish) development environment for overengineered solutions to simple problems.  
+> Web designer by trade, embedded tinkerer by obsession, Swift enthusiast by choice.
+> 
 ## ✨ Features
 
 - 🖥 Web design & development with **Vue**, **JavaScript**, and modern tooling  
