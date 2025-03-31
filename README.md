@@ -16,12 +16,12 @@
 | Domain          | Tools & Languages                          |
 |------------------|--------------------------------------------|
 | Web              | Vue, JavaScript, HTML, CSS, PHP            |
-| Embedded         | C, C++, ESP-IDF, PlatformIO, UART rituals  |
+| Embedded         | C, C++, ESP-IDF, PlatformIO                |
 | Apple Ecosystem  | Swift, Xcode, SwiftUI, Cocoa               |
-| Design           | Figma, Illustrator, Photography            |
+| Design           | Figma, Illustrator, Pen & Paper            |
 | Misc             | Shell scripts, Git, Markdown               |
 
-## 🧪 Current Projects
+## 🧪 Current Projects (That i will want to tell you all about)
 
 - **Cybertyper** — A digital typewriter built with ESP32 and a retro-futuristic vibe  
 - **Morning Dashboard** — A productivity/reminders app for macOS with ADHD-friendly design
