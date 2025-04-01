@@ -4,19 +4,7 @@
 > A human(ish) development environment for overengineered solutions to simple problems.  
 > Web designer by trade, embedded tinkerer by obsession, Swift enthusiast by choice.
 > 
-# w0wfisch
 
-> A human(ish) development environment for overengineered solutions to simple problems.  
-> Web designer by trade, embedded tinkerer by obsession, Swift enthusiast by choice.
-
-![Weird but Functional](https://img.shields.io/badge/status-weird%20but%20functional-yellowgreen)
-![Caffeine Powered](https://img.shields.io/badge/☕-caffeine--powered-orange)
-![Compiler Whisperer](https://img.shields.io/badge/compiler-whisperer-blueviolet)
-![Vue Slinger](https://img.shields.io/badge/vue-slinger-41B883)
-![Swiftly Done](https://img.shields.io/badge/macos%20dev-swiftly%20done-red)
-![Not a Robot (Probably)](https://img.shields.io/badge/identity-not%20a%20robot%20(probably)-lightgrey)
-![Custom Everything](https://img.shields.io/badge/UI-custom%20everything-critical)
-![License: Chaos](https://img.shields.io/badge/license-chaotic%20good-brightgreen)
 
 ## ✨ Features
 
