@@ -27,7 +27,7 @@
 ## 🧪 Current Projects (That i will want to tell you all about)
 
 - **Cybertyper** — A digital typewriter built with ESP32 and a retro-futuristic vibe  
-- **Morning Dashboard** — A productivity/reminders app for macOS with ADHD-friendly design
+- **Sakuji 🌱🛤️** — A handcrafted project manager for Apple devices that links your Reminders, Calendar, Notes, and Contacts into one emoji-tagged, beautifully chaotic ecosystem. Works offline, syncs with iCloud, and respects your brain.
 
 ## 🤝 Collaborations
 
